@@ -1,0 +1,51 @@
+@font-face {
+    font-family:  "AzeretMono";
+    src: url(fonts/AzeretMono.ttf);
+}
+
+.titles 
+{
+    font-family:  'AzeretMono', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+.center
+{
+    font-family:  'AzeretMono', sans-serif;
+    margin:auto;
+    display:block;
+}
+
+input
+{
+    width: 1000px;
+    height: 50px;
+    border-width: 3px;
+    font-size: 25px;
+}
+
+button
+{
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+}
+
+textarea
+{
+    border-width: 3px;
+    width:  1000px;
+    height: 300px;
+    font-size: 25px;
+}
+
+textarea
+{
+    font-family: 'AzeretMono', sans-serif;
+    margin:auto;
+    display:block;
+    resize: none;
+    
+}
