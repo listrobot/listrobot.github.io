@@ -38,7 +38,7 @@ footer
     height: 60px;
   }
 
-  input
+input
 {
     width: 1000px;
     height: 50px;
@@ -63,41 +63,4 @@ textarea
     height: 300px;
     font-size: 25px;
     border-color: gray;
-}
-
-.line {
-      position: relative;
-      top: 50%;
-      width: 16em;
-      margin: 0 auto;
-      border-right: 2px solid rgba(255, 255, 255, 0.75);
-      font-size: 180%;
-      text-align: center;
-      white-space: nowrap;
-      overflow: hidden;
-}
-
-/*Animation*/
-
-.anim-typewriter {
-      animation: typewriter 1s steps(20) 1s 1 normal both,
-      blinkTextCursor 1000ms steps(2) infinite normal;
-}
-
-@keyframes typewriter {
-      from {
-            width: 0;
-      }
-      to {
-            width: 275px;
-      }
-}
-
-@keyframes blinkTextCursor {
-      from {
-            border-right-color: white;
-      }
-      to {
-            border-right-color: black;
-      }
 }
