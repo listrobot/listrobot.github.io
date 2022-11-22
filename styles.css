@@ -18,12 +18,33 @@
     display:block;
 }
 
-input
+html 
+{
+    position: relative;
+    min-height: 100%;
+  }
+
+body
+{
+    margin-bottom: 60px;
+  }
+
+footer
+  {
+    font-family:  'AzeretMono', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+  }
+
+  input
 {
     width: 1000px;
     height: 50px;
     border-width: 3px;
     font-size: 25px;
+    border-color: gray;
 }
 
 button
@@ -31,6 +52,8 @@ button
     width: 250px;
     height: 50px;
     font-size: 25px;
+    background-color: aliceblue;
+    border-color: gray;
 }
 
 textarea
@@ -39,12 +62,42 @@ textarea
     width:  1000px;
     height: 300px;
     font-size: 25px;
+    border-color: gray;
 }
 
-textarea
-{
-    font-family: 'AzeretMono', sans-serif;
-    margin:auto;
-    display:block;
-    resize: none;
+.line {
+      position: relative;
+      top: 50%;
+      width: 16em;
+      margin: 0 auto;
+      border-right: 2px solid rgba(255, 255, 255, 0.75);
+      font-size: 180%;
+      text-align: center;
+      white-space: nowrap;
+      overflow: hidden;
+}
+
+/*Animation*/
+
+.anim-typewriter {
+      animation: typewriter 1s steps(20) 1s 1 normal both,
+      blinkTextCursor 1000ms steps(2) infinite normal;
+}
+
+@keyframes typewriter {
+      from {
+            width: 0;
+      }
+      to {
+            width: 275px;
+      }
+}
+
+@keyframes blinkTextCursor {
+      from {
+            border-right-color: white;
+      }
+      to {
+            border-right-color: black;
+      }
 }
