@@ -7,7 +7,24 @@ var answers = [
     'Subanse a la mulletneta',
     'El mensaje borrado decía "le pegaron dos puntazos en el hombro"',
     'Voto en blanco',
-    'The game'
+    'The game',
+    'Con mucho dolor en el corazón, debo informarles que mi cosa con Rubí ha terminado. Ha sido mi campaña más adversa y difícil. La vida debe continuar y prefiero verlo más como un suceso provechoso, puesto que mi cerebro, cuyo rol fue bastante ignorado desde que la conocí, me venía advirtiendo que esta conquista a largo plazo podría significar un daño importante para mi corazón. Les hago llegar mis agradecimientos a los que me demostraron su afecto y buenos deseos para mí.',
+    'Literalmente abajo está rwspondido',
+    'Encima ví un vídeo de un chabón que se sentó, tiró el botón estando sentado y le sacó pedazo de intestino',
+    'En España por ley tienen que tener tele todos los hoteles',
+    'Aqui es donde todo empezó. Aqui es donde se fundo nuestra hermandad. La primera amistad fue entre Lucas y Nacho (foto de nosotros). Luego se sumaron Elias y Lucas Chiappa. Eramos unos niños tan fogosos que eramos envidiados, todos querían ser parte de nuestro grupo. Es así que la madre de Agustín incluso se acercó a Nacho para pedirle que integrara a Agustín en el grupo, y asi fue the game',
+    'Literalmente me sale mas barato 1 programa de junior achievement, 1 curso de finanzas de junior achievement, 1 encuentro con profesionales, 4 dias y 3 noches en mar del plata, 1 semana en la casa de elias torczuk en mar del tuyu a 2 cuadras del oceano atlántico (200 pesos) que un par de dias en la finca Nuestro Santísimo Salvador del Primer Chorizo Veloz (9000 pesos)',
+    'No les gusta bailar?',
+    'La morsa',
+    'Hoy juega Velez Banfield?',
+    'Cuando estén en la unviersidad, van a seguir haciendo estas cosas? No? Bueno, con eso me quedo tranquila.',
+    'Yo no puedo poner 1000 para el regalo, pongo 600.',
+    'No ves que pincho?',
+    'Un totem al pedo amigo dale',
+    'Paaancho paaancho paaancho',
+    'Gordito lechoso te voy a llenar de leche a ver si te gusta asi',
+    'A a a a a a a comeeeeer',
+    'No mezcles chorizo con velocidad...'
 ]
 
 let previousAnswer = '';
