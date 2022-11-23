@@ -6,7 +6,8 @@ var answers = [
     'Mirá, la verdad es que te vi en la playa y sentí que eras una persona madura pero luego de tener una conversación de duración reducida y que me hagas quedar esperando una respuesta concluí en que te podés ir a la reconcha de tu puta madre pilar y la puta que te re parió anda a estudiar arquitectura si tanto te gustan los pilares vos y agustinfortniter15',
     'Subanse a la mulletneta',
     'El mensaje borrado decía "le pegaron dos puntazos en el hombro"',
-    "Voto en blanco"
+    'Voto en blanco',
+    'The game'
 ]
 
 let previousAnswer = '';
